@@ -1,0 +1,115 @@
+max_paralism: 1
+python_alias: python
+path_to_execution_script : /Users/miptitsy/Desktop/hello.py
+is_path_is_global : true
+executions:
+  -  executuion_1:
+       b: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\BNXFILEgreen.bnx
+       m: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\PROFILEFILEred.txt
+       x: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\XMAPFILE.xmap
+       c: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\rCMAPFILE.cmap
+       r:
+         - 15
+         - 2650
+         - 2740
+       p: ex1
+  -  executuion_2:
+       b: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\BNXFILEgreen.bnx
+       m: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\PROFILEFILEred.txt
+       x: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\XMAPFILE.xmap
+       c: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\rCMAPFILE.cmap
+       r:
+         - 123
+         - 3333
+         - 4444
+       p: ex2
+  - executuion_3:
+      b: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\BNXFILEgreen.bnx
+      m: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\PROFILEFILEred.txt
+      x: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\XMAPFILE.xmap
+      c: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\rCMAPFILE.cmap
+      r:
+        - 123
+        - 3333
+        - 4444
+      p: ex2
+  - executuion_4:
+      b: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\BNXFILEgreen.bnx
+      m: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\PROFILEFILEred.txt
+      x: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\XMAPFILE.xmap
+      c: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\rCMAPFILE.cmap
+      r:
+        - 123
+        - 3333
+        - 4444
+      p: ex2
+  - executuion_5:
+      b: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\BNXFILEgreen.bnx
+      m: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\PROFILEFILEred.txt
+      x: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\XMAPFILE.xmap
+      c: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\rCMAPFILE.cmap
+      r:
+        - 123
+        - 3333
+        - 4444
+      p: ex2
+  - executuion_6:
+      b: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\BNXFILEgreen.bnx
+      m: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\PROFILEFILEred.txt
+      x: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\XMAPFILE.xmap
+      c: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\rCMAPFILE.cmap
+      r:
+        - 123
+        - 3333
+        - 4444
+      p: ex2
+  - executuion_7:
+      b: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\BNXFILEgreen.bnx
+      m: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\PROFILEFILEred.txt
+      x: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\XMAPFILE.xmap
+      c: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\rCMAPFILE.cmap
+      r:
+        - 123
+        - 3333
+        - 4444
+      p: ex2
+  - executuion_8:
+      b: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\BNXFILEgreen.bnx
+      m: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\PROFILEFILEred.txt
+      x: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\XMAPFILE.xmap
+      c: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\rCMAPFILE.cmap
+      r:
+        - 123
+        - 3333
+        - 4444
+      p: ex2
+  - executuion_9:
+      b: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\BNXFILEgreen.bnx
+      m: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\PROFILEFILEred.txt
+      x: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\XMAPFILE.xmap
+      c: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\rCMAPFILE.cmap
+      r:
+        - 123
+        - 3333
+        - 4444
+      p: ex2
+  - executuion_10:
+      b: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\BNXFILEgreen.bnx
+      m: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\PROFILEFILEred.txt
+      x: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\XMAPFILE.xmap
+      c: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\rCMAPFILE.cmap
+      r:
+        - 123
+        - 3333
+        - 4444
+      p: ex2
+  - executuion_11:
+      b: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\BNXFILEgreen.bnx
+      m: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\PROFILEFILEred.txt
+      x: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\XMAPFILE.xmap
+      c: Z:\Saphyr_Data\DAM_DLE_VHL_DLE\73CBVEWLPQLGFNWU\fdaf4261-301f-42a1-9261-6c85f574f4b8\MoleculeDetect\Scan1_2\73CBVEWLPQLGFNWU\8e842048-c4e8-4cb3-8974-ef8d2d33d2fb\FC2\P1\2scansDataSet\rCMAPFILE.cmap
+      r:
+        - 123
+        - 3333
+        - 4444
+      p: ex2
